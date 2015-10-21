@@ -29,16 +29,22 @@
 		margin-top: 0px;
 	}
 
-	 h2{
+	h2{
 	 	margin-top: 0px;
 	 }
 
-	 .products_list{
-	 	list-style-type: none;
-	 	display: inline-block;
-	 }
+	
+	
+	.product{
+		float: left;
+		width: 20%;
+		margin-left: 10px;
+		margin-right: 10px;
+		border:1px solid black;
+	}
 
-	 .product_img{
+	.product_img{
 	 	width: 150px;
 	 	height: 150px;
+	 	float: center;
 	 }
