@@ -1,0 +1,17 @@
+.left_side_bar{
+		background: #dddddd;
+		float: left;
+		width: 20%;
+		height: 60%;
+
+	}
+
+	.side_bar_items{
+		list-style-type: none;
+
+	}
+
+	.side_bar_item{
+		padding-bottom: 10px;
+		font-weight: bold;
+	}
