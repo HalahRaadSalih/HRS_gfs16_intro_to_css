@@ -20,3 +20,15 @@
 	h1{
 		margin-left: 20px;
 	}
+
+	.main_body{
+		background: #dddddd;
+		float: left;
+		margin-left: 20px;
+		width: 60%;
+		margin-top: 0px;
+	}
+
+	 h2{
+	 	margin-top: 0px;
+	 }
