@@ -32,3 +32,13 @@
 	 h2{
 	 	margin-top: 0px;
 	 }
+
+	 .products_list{
+	 	list-style-type: none;
+	 	display: inline-block;
+	 }
+
+	 .product_img{
+	 	width: 150px;
+	 	height: 150px;
+	 }
