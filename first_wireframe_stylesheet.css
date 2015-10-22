@@ -1,9 +1,9 @@
 .left_side_bar{
-		background: #dddddd;
 		float: left;
 		width: 15%;
-		height: 60%;
+		height: 400px;
 		margin-left: 20px;
+		border:1px solid black
 
 	}
 
@@ -21,12 +21,16 @@
 		margin-left: 20px;
 	}
 
-	.main_body{
-		background: #dddddd;
+	.container{
 		float: left;
 		margin-left: 20px;
-		width: 60%;
+		width: 70%;
+		height: 100%;
 		margin-top: 0px;
+	}
+
+	.piedpiper_description{
+		margin-left: 3%;
 	}
 
 	h2{
@@ -34,17 +38,25 @@
 	 }
 
 	
-	
+	.products{
+
+		margin-top: 5%;
+	}
+
 	.product{
 		float: left;
 		width: 20%;
-		margin-left: 10px;
-		margin-right: 10px;
+		height: 300px;
+		margin-left: 3%;
+
 		border:1px solid black;
+		padding: 1.5% 1.5% 1.5% 1.5%;
+
 	}
 
 	.product_img{
-	 	width: 150px;
-	 	height: 150px;
-	 	float: center;
+
+	 	width: 50%;
+	 	margin: 0 auto;
+
 	 }
