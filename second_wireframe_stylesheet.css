@@ -1,0 +1,49 @@
+
+.post{
+	float: left;
+	width: 60%;
+	padding: 10px;
+	border: 1px solid black;
+	margin-bottom: 2%;
+
+}
+
+.post > div{
+	float: left;
+	margin-left: 1.5%;
+	width: 70%;
+}
+
+.post > div > p{
+	margin-top: 0px;
+}
+.post > div > div {
+	width: 90%;
+	height: 20px;
+	margin-top: 8%
+}
+.post > div > div > div{
+	float: left;
+	margin-left: 0%;
+	width: 20%;
+}
+
+.post > div > div > div > img{
+	width: 15px;
+	height: 15px;
+	float: left;
+
+}
+.post > div > div > div > p{
+	float: left;
+	width: 70%;
+	margin-top: 0px;
+	margin-left: 5%;
+}
+.post > img{
+	width: 50px;
+	height: 50px;
+	float: left;
+
+}
+
