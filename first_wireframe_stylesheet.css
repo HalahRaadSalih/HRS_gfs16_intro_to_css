@@ -46,17 +46,21 @@
 	.product{
 		float: left;
 		width: 20%;
-		height: 300px;
+		height: 200px;
 		margin-left: 3%;
 
 		border:1px solid black;
-		padding: 1.5% 1.5% 1.5% 1.5%;
-
+/*		padding: 1.5% 1.5% 1.5% 1.5%;
+*/
 	}
-
+	.product.img.container{
+		width: 50%;
+		background: red;
+		margin: 0 auto;
+	}
 	.product_img{
 
 	 	width: 50%;
-	 	margin: 0 auto;
-
+	 	padding: 30% 25% 25% 25%;
 	 }
+
